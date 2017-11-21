@@ -1,4 +1,4 @@
-// Data structure that will store the friends data
+// keeps track of friends data 
 var friendsArray = [
 	{
 		name: 'Maryam',
